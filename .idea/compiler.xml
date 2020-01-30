@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="pacman2" />
         <module name="pacmanpz2" />
+        <module name="PacmanJavaFX" />
       </profile>
     </annotationProcessing>
   </component>

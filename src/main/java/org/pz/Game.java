@@ -131,7 +131,7 @@ public class Game extends Application {
     }
 
     private void drawBackToMenu() {
-        Button backToMenu = new Button("Powrót do menu");
+        Button backToMenu = new Button("Back to menu");
         backToMenu.setLayoutX(155);
         backToMenu.setLayoutY(550);
         backToMenu.setOnAction(e -> {

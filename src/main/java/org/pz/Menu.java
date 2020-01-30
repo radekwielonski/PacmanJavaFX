@@ -54,8 +54,8 @@ public class Menu {
         });
 
 
-        Button playButton = new Button("Graj");
-        Button closeButton = new Button("Zakoncz");
+        Button playButton = new Button("Play");
+        Button closeButton = new Button("Exit");
 
         window.setOnCloseRequest(e -> {
             window.close();
